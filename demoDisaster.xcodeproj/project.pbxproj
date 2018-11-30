@@ -16,6 +16,7 @@
 		496DFA712165F2D600AA656E /* ic_bg_new.png in Resources */ = {isa = PBXBuildFile; fileRef = 496DFA702165F2D600AA656E /* ic_bg_new.png */; };
 		496DFA732165F5C500AA656E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 496DFA722165F5C500AA656E /* SecondViewController.swift */; };
 		496DFA772166133700AA656E /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 496DFA762166133700AA656E /* ThirdViewController.swift */; };
+		498EDDD921B1004D002B5BCD /* new.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498EDDD821B1004D002B5BCD /* new.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		496DFA702165F2D600AA656E /* ic_bg_new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_bg_new.png; sourceTree = "<group>"; };
 		496DFA722165F5C500AA656E /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		496DFA762166133700AA656E /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		498EDDD821B1004D002B5BCD /* new.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = new.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				496DFA6E2165F07E00AA656E /* ZImageCropper.swift */,
 				496DFA722165F5C500AA656E /* SecondViewController.swift */,
 				496DFA762166133700AA656E /* ThirdViewController.swift */,
+				498EDDD821B1004D002B5BCD /* new.swift */,
 			);
 			path = demoDisaster;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				498EDDD921B1004D002B5BCD /* new.swift in Sources */,
 				496DFA732165F5C500AA656E /* SecondViewController.swift in Sources */,
 				496DFA5F2165EF2200AA656E /* ViewController.swift in Sources */,
 				496DFA772166133700AA656E /* ThirdViewController.swift in Sources */,
