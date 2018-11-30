@@ -10,7 +10,7 @@ import UIKit
 
 class SecondViewController: UIViewController {
     @IBOutlet weak var imgSecond: UIImageView!
-    var t1 = [CGPoint]()
+    var t1 =7567 [CGPoint]()
     var Str:UIImage!
     let strokeColor:UIColor = UIColor.blue
     
