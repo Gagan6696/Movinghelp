@@ -17,6 +17,7 @@
 		496DFA732165F5C500AA656E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 496DFA722165F5C500AA656E /* SecondViewController.swift */; };
 		496DFA772166133700AA656E /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 496DFA762166133700AA656E /* ThirdViewController.swift */; };
 		498EDDD921B1004D002B5BCD /* new.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498EDDD821B1004D002B5BCD /* new.swift */; };
+		498EDDDB21B10D67002B5BCD /* newagaintest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498EDDDA21B10D67002B5BCD /* newagaintest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		496DFA722165F5C500AA656E /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		496DFA762166133700AA656E /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		498EDDD821B1004D002B5BCD /* new.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = new.swift; sourceTree = "<group>"; };
+		498EDDDA21B10D67002B5BCD /* newagaintest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newagaintest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				496DFA722165F5C500AA656E /* SecondViewController.swift */,
 				496DFA762166133700AA656E /* ThirdViewController.swift */,
 				498EDDD821B1004D002B5BCD /* new.swift */,
+				498EDDDA21B10D67002B5BCD /* newagaintest.swift */,
 			);
 			path = demoDisaster;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			files = (
 				498EDDD921B1004D002B5BCD /* new.swift in Sources */,
 				496DFA732165F5C500AA656E /* SecondViewController.swift in Sources */,
+				498EDDDB21B10D67002B5BCD /* newagaintest.swift in Sources */,
 				496DFA5F2165EF2200AA656E /* ViewController.swift in Sources */,
 				496DFA772166133700AA656E /* ThirdViewController.swift in Sources */,
 				496DFA6F2165F07E00AA656E /* ZImageCropper.swift in Sources */,
@@ -295,13 +299,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = J9XDBQF4DJ;
+				DEVELOPMENT_TEAM = QTPW9SY47V;
 				INFOPLIST_FILE = demoDisaster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = J9XDBQF4DJ.com.hotfuse.stevev1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seasia.asem;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d6ff74ff-f081-4d7a-bbed-e8933ec78762";
-				PROVISIONING_PROFILE_SPECIFIER = hotfuseDev;
+				PROVISIONING_PROFILE = "d0dc62a5-5372-4788-a0eb-b3ccf4573c46";
+				PROVISIONING_PROFILE_SPECIFIER = asem_development;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -312,13 +316,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = J9XDBQF4DJ;
+				DEVELOPMENT_TEAM = QTPW9SY47V;
 				INFOPLIST_FILE = demoDisaster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = J9XDBQF4DJ.com.hotfuse.stevev1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.seasia.asem;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d6ff74ff-f081-4d7a-bbed-e8933ec78762";
-				PROVISIONING_PROFILE_SPECIFIER = hotfuseDev;
+				PROVISIONING_PROFILE = "d0dc62a5-5372-4788-a0eb-b3ccf4573c46";
+				PROVISIONING_PROFILE_SPECIFIER = asem_development;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

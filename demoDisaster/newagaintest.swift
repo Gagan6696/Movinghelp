@@ -1,5 +1,5 @@
 //
-//  new.swift
+//  newagaintest.swift
 //  demoDisaster
 //
 //  Created by Gagan on 11/30/18.
@@ -7,8 +7,3 @@
 //
 
 import Foundation
-
-
-
-
-
